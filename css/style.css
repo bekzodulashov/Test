@@ -20,7 +20,7 @@ a{
 }
 /* header start */
 .header{
-    background: chocolate;
+    background: dodgerblue;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
